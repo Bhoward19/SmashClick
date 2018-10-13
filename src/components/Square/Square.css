@@ -7,7 +7,7 @@
 }
 
 .square:hover {
-    border: 1px solid rgb(3, 156, 11);
-    box-shadow: 2px 2px darkorange;
+    border: 1px solid rgb(133, 5, 5);
+    box-shadow: 2px 2px rgb(223, 216, 18);
     opacity: 0.7;
 }
